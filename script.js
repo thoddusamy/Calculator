@@ -2,7 +2,7 @@
 
 let headerEle = document.createElement('header')
 headerEle.innerHTML = `
-<h3>This is a basic calculator App. Use this calculator for preform with addition, subtraction, division
+<h3>This is a basic calculator App. Use this calculator to preform with addition, subtraction, division
 and multiplication and modulus.</h3>`
 
 let div = document.createElement('div')
